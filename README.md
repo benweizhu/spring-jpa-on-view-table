@@ -1,0 +1,1 @@
+# spring-jpa-on-view-table
